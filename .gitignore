@@ -1,5 +1,4 @@
 build/
-data/
 bin/
 .cache/
 compile_commands.json
